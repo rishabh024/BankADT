@@ -12,8 +12,6 @@ import iciciBank.ICICIBank;
 import iobBank.IOBBank;
 
 public class Main {
-    
-    // main file
     public static void main(String[] args) {
         // create an object of the ICICI Bank class
         ICICIBank iciciBankMathuraBranch = new ICICIBank();
